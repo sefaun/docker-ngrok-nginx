@@ -6,5 +6,3 @@ tunnels:
   api:
     addr: nginx:80
     proto: http
-# docker çalıştıktan sonra loglarda verilen domaini al. docker durdur. sonra alttaki satırı yaz ve tekrar başlat.
-#    hostname: sefa.ngrok-free.dev
